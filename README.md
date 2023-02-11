@@ -5,7 +5,10 @@
 > I've been a programmer for 5+ with expertise in JavaScript and its frameworks such as NodeJS, React, and NextJS. 
 > Additionally, I've a passion for learning new skills and am currently focusing on AI and Machine Learning.
 
+<br />
+
 ### **_Contact Details_**
+
 [![LinkedIn](https://img.shields.io/badge/-Felippe%20Chemello-3997db?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felippechemello/)](https://www.linkedin.com/in/felippechemello)
 [![YouTube](https://img.shields.io/badge/-CodeStack.Me-3997db.svg?style=for-the-badge&logo=youtube&link=https://www.youtube.com/@CodeStackMe)](https://www.youtube.com/@CodeStackMe)
 [![Gmail](https://img.shields.io/badge/-felippe@codestack.me-3997db?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felippe@codestack.me)](mailto:felippe@codestack.me)
