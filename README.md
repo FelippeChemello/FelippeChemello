@@ -22,7 +22,7 @@
   <a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FelippeChemello/sync.video">
-    <img src="https://github-stats-gonoc.vercel.app/api/pin/?username=felippechemello&repo=sync.video&theme=dracula&title_color=3997db"/>
+    <img src="https://github-stats-gonoc.vercel.app/api/pin/?username=felippechemello&repo=sync.video&title_color=3997db&theme=dracula"/>
   </a>
 </div>
     
