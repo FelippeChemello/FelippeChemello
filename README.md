@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Felippe%20Chemello-3997db?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felippechemello/)](https://www.linkedin.com/in/felippechemello)
 [![YouTube](https://img.shields.io/badge/-CodeStack.Me-3997db.svg?style=for-the-badge&logo=youtube&link=https://www.youtube.com/@CodeStackMe)](https://www.youtube.com/@CodeStackMe)
 [![Gmail](https://img.shields.io/badge/-felippe@codestack.me-3997db?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felippe@codestack.me)](mailto:felippe@codestack.me)
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=felippechemello%2Ffelippechemello&label=VISITORS&labelColor=%23282a36&countColor=%233997db" />
 
 ## Projects
 
